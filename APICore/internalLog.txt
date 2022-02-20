@@ -1,0 +1,280 @@
+ 2021-09-29 12:17:06.2611 Info Message Template Auto Format enabled
+2021-09-29 12:17:06.2700 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 12:17:06.3124 Info Adding target FileTarget(Name=alldata)
+2021-09-29 12:17:06.3183 Info Adding target FileTarget(Name=jsonFile)
+2021-09-29 12:17:06.3183 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-09-29 12:17:06.3343 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-09-29 12:17:06.3596 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-09-29 12:17:06.3813 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-09-29 12:17:29.2934 Info Message Template Auto Format enabled
+2021-09-29 12:17:29.3091 Info Loading assembly: NLog.Web.AspNetCore
+2021-09-29 12:17:29.3526 Info Adding target FileTarget(Name=alldata)
+2021-09-29 12:17:29.3643 Info Adding target FileTarget(Name=jsonFile)
+2021-09-29 12:17:29.3643 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-09-29 12:17:29.3907 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-09-29 12:17:29.4182 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-09-29 12:17:29.4369 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-01 13:38:44.2488 Info Message Template Auto Format enabled
+2021-10-01 13:38:44.2665 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-01 13:38:44.3143 Info Adding target FileTarget(Name=alldata)
+2021-10-01 13:38:44.3143 Info Adding target FileTarget(Name=jsonFile)
+2021-10-01 13:38:44.3503 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-01 13:38:44.3702 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-01 13:38:44.3997 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-01 13:38:44.4131 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-01 13:39:53.8558 Info Message Template Auto Format enabled
+2021-10-01 13:39:53.8768 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-01 13:39:53.9277 Info Adding target FileTarget(Name=alldata)
+2021-10-01 13:39:53.9410 Info Adding target FileTarget(Name=jsonFile)
+2021-10-01 13:39:53.9621 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-01 13:39:53.9869 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-01 13:39:54.0242 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-01 13:39:54.0508 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-01 13:42:08.7842 Info Message Template Auto Format enabled
+2021-10-01 13:42:08.8035 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-01 13:42:08.8536 Info Adding target FileTarget(Name=alldata)
+2021-10-01 13:42:08.8655 Info Adding target FileTarget(Name=jsonFile)
+2021-10-01 13:42:08.8805 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-01 13:42:08.8938 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-01 13:42:08.9181 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-01 13:42:08.9316 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-01 13:58:49.2995 Info Message Template Auto Format enabled
+2021-10-01 13:58:49.3290 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-01 13:58:49.3768 Info Adding target FileTarget(Name=alldata)
+2021-10-01 13:58:49.3768 Info Adding target FileTarget(Name=jsonFile)
+2021-10-01 13:58:49.4078 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-01 13:58:49.4256 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-01 13:58:49.4657 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-01 13:58:49.4868 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-01 15:04:54.8291 Info Message Template Auto Format enabled
+2021-10-01 15:04:54.8675 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-01 15:04:54.9668 Info Adding target FileTarget(Name=alldata)
+2021-10-01 15:04:54.9908 Info Adding target FileTarget(Name=jsonFile)
+2021-10-01 15:04:55.0244 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-01 15:04:55.0578 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-01 15:04:55.1001 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-01 15:04:55.1231 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-01 21:00:59.9928 Info Message Template Auto Format enabled
+2021-10-01 21:01:00.0262 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-01 21:01:00.0816 Info Adding target FileTarget(Name=alldata)
+2021-10-01 21:01:00.1047 Info Adding target FileTarget(Name=jsonFile)
+2021-10-01 21:01:00.1349 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-01 21:01:00.1555 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-01 21:01:00.2013 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-01 21:01:00.2287 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-02 21:37:43.7895 Info Message Template Auto Format enabled
+2021-10-02 21:37:44.0426 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-02 21:37:44.1377 Info Adding target FileTarget(Name=alldata)
+2021-10-02 21:37:44.1580 Info Adding target FileTarget(Name=jsonFile)
+2021-10-02 21:37:44.1776 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-02 21:37:44.1995 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-02 21:37:44.2380 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-02 21:37:44.2555 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-02 21:49:45.2694 Info Message Template Auto Format enabled
+2021-10-02 21:49:45.3556 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-02 21:49:45.4446 Info Adding target FileTarget(Name=alldata)
+2021-10-02 21:49:45.4681 Info Adding target FileTarget(Name=jsonFile)
+2021-10-02 21:49:45.4907 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-02 21:49:45.5136 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-02 21:49:45.5848 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-02 21:49:45.6090 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:06:28.6708 Info Message Template Auto Format enabled
+2021-10-03 11:06:28.7228 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:06:28.8064 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:06:28.8393 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:06:28.8708 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:06:28.8989 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:06:28.9473 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:06:28.9724 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:09:35.1926 Info Message Template Auto Format enabled
+2021-10-03 11:09:35.2577 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:09:35.3687 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:09:35.3901 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:09:35.4090 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:09:35.4372 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:09:35.5000 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:09:35.5287 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:11:23.3191 Info Message Template Auto Format enabled
+2021-10-03 11:11:23.3496 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:11:23.4267 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:11:23.4446 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:11:23.4635 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:11:23.4854 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:11:23.5248 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:11:23.5483 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:11:51.7042 Info Message Template Auto Format enabled
+2021-10-03 11:11:51.7419 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:11:51.8166 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:11:51.8352 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:11:51.8587 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:11:51.8868 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:11:51.9121 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:11:51.9333 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:12:17.7189 Info Message Template Auto Format enabled
+2021-10-03 11:12:17.7454 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:12:17.8294 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:12:17.8573 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:12:17.8837 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:12:17.9050 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:12:17.9297 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:12:17.9488 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:12:44.1015 Info Message Template Auto Format enabled
+2021-10-03 11:12:44.1339 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:12:44.2096 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:12:44.2326 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:12:44.2679 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:12:44.2898 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:12:44.3365 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:12:44.3575 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:14:30.9168 Info Message Template Auto Format enabled
+2021-10-03 11:14:30.9349 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:14:30.9826 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:14:30.9970 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:14:31.0165 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:14:31.0500 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:14:31.0932 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:14:31.1238 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:22:19.6937 Info Message Template Auto Format enabled
+2021-10-03 11:22:19.7437 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:22:19.8135 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:22:19.8801 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:22:19.9009 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:22:19.9284 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:22:19.9674 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:22:20.0088 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:24:18.9068 Info Message Template Auto Format enabled
+2021-10-03 11:24:18.9990 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:24:19.0924 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:24:19.1237 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:24:19.1496 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:24:19.1820 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:24:19.2478 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:24:19.2936 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 11:27:55.0255 Info Message Template Auto Format enabled
+2021-10-03 11:27:55.0458 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 11:27:55.1090 Info Adding target FileTarget(Name=alldata)
+2021-10-03 11:27:55.1274 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 11:27:55.1508 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 11:27:55.1715 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 11:27:55.2094 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 11:27:55.2366 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 23:13:21.3932 Info Message Template Auto Format enabled
+2021-10-03 23:13:21.4626 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 23:13:21.5455 Info Adding target FileTarget(Name=alldata)
+2021-10-03 23:13:21.5796 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 23:13:21.6191 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 23:13:21.6607 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 23:13:21.7105 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 23:13:21.7261 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 23:15:58.0015 Info Message Template Auto Format enabled
+2021-10-03 23:15:58.0914 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 23:15:58.1833 Info Adding target FileTarget(Name=alldata)
+2021-10-03 23:15:58.2089 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 23:15:58.2341 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 23:15:58.2547 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 23:15:58.2864 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 23:15:58.3113 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 23:18:52.6984 Info Message Template Auto Format enabled
+2021-10-03 23:18:52.7415 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 23:18:52.8159 Info Adding target FileTarget(Name=alldata)
+2021-10-03 23:18:52.8365 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 23:18:52.8601 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 23:18:52.8810 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 23:18:52.9077 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 23:18:52.9250 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 23:21:10.4620 Info Message Template Auto Format enabled
+2021-10-03 23:21:10.5338 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 23:21:10.6031 Info Adding target FileTarget(Name=alldata)
+2021-10-03 23:21:10.6213 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 23:21:10.6542 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 23:21:10.7173 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 23:21:10.8117 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 23:21:10.8444 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-10-03 23:24:15.4013 Info Message Template Auto Format enabled
+2021-10-03 23:24:15.4561 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-03 23:24:15.5445 Info Adding target FileTarget(Name=alldata)
+2021-10-03 23:24:15.5693 Info Adding target FileTarget(Name=jsonFile)
+2021-10-03 23:24:15.5893 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-10-03 23:24:15.6134 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-10-03 23:24:15.6435 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=C:\Work\Projects\WaveCity\API\bin\Debug\net5.0\nlog.config
+2021-10-03 23:24:15.6543 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:07:26.0155 Info Message Template Auto Format enabled
+2021-11-17 00:07:26.0462 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:07:26.1202 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:07:26.1263 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:07:26.1263 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:07:26.1471 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:07:26.1639 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:07:26.1709 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:09:11.1516 Info Message Template Auto Format enabled
+2021-11-17 00:09:11.1926 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:09:11.2675 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:09:11.2925 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:09:11.3217 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:09:11.3796 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:09:11.4265 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:09:11.4491 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:13:09.8144 Info Message Template Auto Format enabled
+2021-11-17 00:13:09.8327 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:13:09.9386 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:13:09.9386 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:13:09.9671 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:13:09.9806 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:13:10.0073 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:13:10.0212 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:28:18.8189 Info Message Template Auto Format enabled
+2021-11-17 00:28:18.9037 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:28:18.9880 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:28:19.0040 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:28:19.0187 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:28:19.0322 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:28:19.0660 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:28:19.0790 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:29:37.6289 Info Message Template Auto Format enabled
+2021-11-17 00:29:37.6467 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:29:37.7264 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:29:37.7434 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:29:37.7570 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:29:37.7747 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:29:37.8146 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:29:37.8283 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:35:35.5243 Info Message Template Auto Format enabled
+2021-11-17 00:35:35.5504 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:35:35.6428 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:35:35.6569 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:35:35.6569 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:35:35.6914 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:35:35.7309 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:35:35.7530 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 00:36:12.1396 Info Message Template Auto Format enabled
+2021-11-17 00:36:12.1622 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 00:36:12.2444 Info Adding target FileTarget(Name=alldata)
+2021-11-17 00:36:12.2558 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 00:36:12.2806 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 00:36:12.2978 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 00:36:12.3262 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 00:36:12.3408 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 01:00:49.1640 Info Message Template Auto Format enabled
+2021-11-17 01:00:49.1847 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 01:00:49.2516 Info Adding target FileTarget(Name=alldata)
+2021-11-17 01:00:49.2516 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 01:00:49.2694 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 01:00:49.2830 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 01:00:49.3133 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 01:00:49.3280 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 01:43:34.4327 Info Message Template Auto Format enabled
+2021-11-17 01:43:34.4524 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 01:43:34.5293 Info Adding target FileTarget(Name=alldata)
+2021-11-17 01:43:34.5390 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 01:43:34.5625 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 01:43:34.5793 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 01:43:34.6221 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 01:43:34.6310 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
+2021-11-17 01:46:42.2498 Info Message Template Auto Format enabled
+2021-11-17 01:46:42.2498 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-17 01:46:42.3319 Info Adding target FileTarget(Name=alldata)
+2021-11-17 01:46:42.3319 Info Adding target FileTarget(Name=jsonFile)
+2021-11-17 01:46:42.3483 Info Adding target DatabaseTarget(Name=DBCatalog)
+2021-11-17 01:46:42.3613 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: databaseLogger.
+2021-11-17 01:46:42.3838 Info Validating config: TargetNames=alldata, jsonFile, ConfigItems=75, FilePath=D:\Work\API-Api\API\bin\Debug\net5.0\nlog.config
+2021-11-17 01:46:42.3945 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: DBCatalog
